@@ -12,5 +12,5 @@ resource "aws_instance" "AWSEC2instance" {
   tags = {
     Name = "RedHatawsInstance-outPut"
   }
-  test
+  
 }
